@@ -65,4 +65,8 @@ Genelde manual yapılıyormuş.
 
 Genelde kullanıcılarda veri değişme hızı düşük ama B2B de yüksek.
 
+**Modelling**
 
+<img width="1258" height="526" alt="image" src="https://github.com/user-attachments/assets/2e6f051c-b313-4f77-9574-9debd4bf1170" />
+
+Genelde model based bir de data base yaklaşım var.Ama hoca data base in daha mantıklı olduğunu söyledi.
