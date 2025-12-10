@@ -70,3 +70,10 @@ Genelde kullanıcılarda veri değişme hızı düşük ama B2B de yüksek.
 <img width="1258" height="526" alt="image" src="https://github.com/user-attachments/assets/2e6f051c-b313-4f77-9574-9debd4bf1170" />
 
 Genelde model based bir de data base yaklaşım var.Ama hoca data base in daha mantıklı olduğunu söyledi.
+
+
+<img width="1278" height="601" alt="image" src="https://github.com/user-attachments/assets/909ac9c9-6b4c-4ad1-9d3d-e83c6a0b1dd2" />
+
+Modellemede ise hem eğitmek hem test setinden iyi sonuç almak hem de iş sonucunu iyi almak gerekir.
+
+
